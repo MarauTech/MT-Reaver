@@ -1,12 +1,54 @@
-# MT-Reaver
+# ⚡ MT-Reaver (In Development)
 
-💭About MT-Reaver
+**MT-Reaver** is a multi-functional RF and wireless attack tool for ESP32 + CC1101.  
+Currently in development — firmware files are **not yet public**.
 
+---
 
-The project allows reading, repeating, and saving signals in the 315/433/868/915 MHz ranges. Jamming Bluetooth channels,deauth attack
+## 🇬🇧 Current Features
 
-The project is stable but may be updated for additional features.
+- 📶 Supports 315 / 433 / 868 / 915 MHz bands  
+- 🔍 Signal reading  
+- 🔄 Signal repeating  
+- 📊 Frequency analysis  
+- 💾 Save up to 20 signals  
+- 🚫 Signal deletion  
+- 🛰️ Signal jamming (⚠️ ILLEGAL)  
+- 📡 Spectrum analyzer  
+- 📶 Wi-Fi deauth attack  
+- 🧿 BLE spammer
 
-This firmware is designed exclusively for research purposes and hardware testing. By using the firmware, you must comply with the laws of your region. The firmware creator is not responsible for your actions. Jammers are ILLEGAL.
-Using the firmware means that you fully agree to these terms
+> Firmware is **in production**. Code will be published when ready.
+
+---
+
+## 🇵🇱 Opis
+
+**MT-Reaver** to narzędzie do analizy i ataków bezprzewodowych (ESP32 + CC1101).  
+Projekt w trakcie produkcji – pliki firmware **jeszcze nie są publiczne**.
+
+---
+
+### 🔧 Obecne funkcje
+
+- 📶 Obsługa pasm: 315 / 433 / 868 / 915 MHz  
+- 🔍 Odczyt sygnałów  
+- 🔄 Powtarzanie sygnałów  
+- 📊 Analiza częstotliwości  
+- 💾 Zapis do 20 sygnałów  
+- 🚫 Usuwanie sygnałów  
+- 🛰️ Zakłócanie (⚠️ NIELEGALNE)  
+- 📡 Analiza widma  
+- 📶 Deauther Wi-Fi  
+- 🧿 BLE spammer
+
+> Firmware zostanie opublikowane po zakończeniu prac.
+
+---
+
+## ⚠️ Disclaimer
+
+This firmware is for **educational and legal use only**.  
+Unauthorized jamming or exploitation may violate the law.
+
 ![Logo](https://github.com/user-attachments/assets/4eb90493-ec43-4373-90dd-8350e6994caf)
