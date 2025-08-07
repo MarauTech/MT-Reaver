@@ -11,13 +11,9 @@ Currently in development — firmware files are **not yet public**.
 - 🔍 Signal reading  
 - 🔄 Signal repeating  
 - 📊 Frequency analysis  
-- 💾 Save up to 20 signals  
-- 🚫 Signal deletion  
+- 💾 Save up to 20 signals    
 - 🛰️ Signal jamming (⚠️ ILLEGAL)  
 - 📡 Spectrum analyzer  
-- 📶 Wi-Fi deauth attack  
-- 🧿 BLE spammer
-
 > Firmware is **in production**. Code will be published when ready.
 
 ---
@@ -35,13 +31,9 @@ Projekt w trakcie produkcji – pliki firmware **jeszcze nie są publiczne**.
 - 🔍 Odczyt sygnałów  
 - 🔄 Powtarzanie sygnałów  
 - 📊 Analiza częstotliwości  
-- 💾 Zapis do 20 sygnałów  
-- 🚫 Usuwanie sygnałów  
+- 💾 Zapis do 20 sygnałów    
 - 🛰️ Zakłócanie (⚠️ NIELEGALNE)  
 - 📡 Analiza widma  
-- 📶 Deauther Wi-Fi  
-- 🧿 BLE spammer
-
 > Firmware zostanie opublikowane po zakończeniu prac.
 
 ---
